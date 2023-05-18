@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
 <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg"         alt="C" height="50px" width="50px"></img></a>
 <a href="https://en.wikipedia.org/wiki/HTML" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/3/38/HTML5_Badge.svg"                    alt="C" height="50px" width="50px"></img></a>
 <a href="https://en.wikipedia.org/wiki/CSS" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg"                      alt="C" height="50px" width="50px"></img></a>
-<a href="https://en.wikipedia.org/wiki/Java_(programming_language)" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/d/dd/Java_programming_language_logo.png" alt="Java" height="50px" width="30px"></img></a>
+<a href="https://en.wikipedia.org/wiki/Java_(programming_language)" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/800px-Java_programming_language_logo.svg.png" alt="Java" height="50px" width="30px"></img></a>
 <a href="https://en.wikipedia.org/wiki/Python_(programming_language)" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg"             alt="C" height="50px" width="50px"></img></a>
 
 <h3><b>Programs:</b></h3>
