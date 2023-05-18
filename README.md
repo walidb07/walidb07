@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @walidb07
-- 👀 I’m interested in ...
+- 👀 I’m interested in Saab JAS 39 Gripen 🇸🇪
 - 🌱 I’m currently learning Python and Javascript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: Discord: Walid#7720
